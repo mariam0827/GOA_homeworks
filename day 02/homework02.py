@@ -1,0 +1,1 @@
+print ("gavicani GOAshi" + " jerjerbit veravin")
